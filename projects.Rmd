@@ -1,0 +1,32 @@
+---
+title: "My Projects"
+---
+
+
+# Summary table of mtcars
+
+I run the summary statistics below
+```{r, echo = F, warning = F}
+summary(mtcars)
+```
+
+```{r, echo = F, warning = F}
+library(ggplot2)
+
+ggplot(mtcars, aes(x=mpg, y=hp))+
+  geom_point()
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+

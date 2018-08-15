@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+- _Name:_ Olivia Huang
+- _Occupation:_ "MS Business Analytics Graduate Student"
+- _Hobbies:_ Learning software development instead of studying for exams. 
+
+Here is a super cool photo of me doing one of my favorite things, yawning. 
+
+![](olivia_image.png)
